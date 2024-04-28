@@ -1,26 +1,20 @@
-Certainly! Here's a detailed content for the README file of your GitHub repo for the "Multiple Disease Prediction System" project:
-
----
-
 # Multiple Disease Prediction System
 
-![GitHub last commit](https://img.shields.io/github/last-commit/YourUsername/YourRepoName)
-![GitHub repo size](https://img.shields.io/github/repo-size/YourUsername/YourRepoName)
-![GitHub issues](https://img.shields.io/github/issues/YourUsername/YourRepoName)
+![GitHub last commit]([https://img.shields.io/github/last-commit/casanova1510/Disease-Prediction-System.git)]
+![GitHub repo size](https://img.shields.io/github/repo-size/casanova1510/Disease-Prediction-System.git)
+![GitHub issues](https://img.shields.io/github/issues/casanova1510/Disease-Prediction-System.git)
 
 The Multiple Disease Prediction System is an application designed to identify and predict multiple diseases such as heart disease, Parkinson's disease, or diabetes based on user inputs. It utilizes machine learning models and statistical algorithms to analyze input data and provide accurate predictions.
 
 ## Table of Contents
 
 - [Features](#features)
-- [Demo](#demo)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
-- [Acknowledgements](#acknowledgements)
 
 ## Features
 
@@ -28,10 +22,6 @@ The Multiple Disease Prediction System is an application designed to identify an
 - User-friendly interface for entering input data.
 - Utilizes machine learning models for accurate predictions.
 - Provides detailed insights and explanations for predictions.
-
-## Demo
-
-[Add a link to a demo video or live demo here if available]
 
 ## Getting Started
 
@@ -48,13 +38,13 @@ Before running the application, make sure you have the following prerequisites i
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/YourUsername/YourRepoName.git
+   git clone https://github.com/casanova1510/Disease-Prediction-System.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd YourRepoName
+   cd Disease-Prediction-System
    ```
 
 3. Install the required Python libraries:
@@ -83,12 +73,8 @@ Contributions are welcome! Please feel free to open a pull request or submit an 
 
 ## License
 
-[Choose an appropriate license for your project and add it here]
+This project is licensed under the MIT License.
+The MIT License is a permissive open-source license that allows users to use, modify, and distribute the code with minimal restrictions. It requires users to include the original copyright notice and license disclaimer in their copies of the software.
 
-## Acknowledgements
+For more information, please see the ([LICENSE](https://github.com/casanova1510/Disease-Prediction-System/blob/e6569772d3062a5fad51a032c868059611c492b3/LICENSE)) file.
 
-- [Mention any acknowledgements or credits for libraries, datasets, or resources used in the project]
-
----
-
-Feel free to customize the content according to your specific project details and preferences. Let me know if you need further assistance!
