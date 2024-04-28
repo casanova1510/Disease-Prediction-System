@@ -1,9 +1,5 @@
 # Multiple Disease Prediction System
 
-![GitHub last commit]([https://img.shields.io/github/last-commit/casanova1510/Disease-Prediction-System.git)]
-![GitHub repo size](https://img.shields.io/github/repo-size/casanova1510/Disease-Prediction-System.git)
-![GitHub issues](https://img.shields.io/github/issues/casanova1510/Disease-Prediction-System.git)
-
 The Multiple Disease Prediction System is an application designed to identify and predict multiple diseases such as heart disease, Parkinson's disease, or diabetes based on user inputs. It utilizes machine learning models and statistical algorithms to analyze input data and provide accurate predictions.
 
 ## Table of Contents
